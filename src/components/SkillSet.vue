@@ -6,7 +6,7 @@
         <div
           v-for="(item, index) in skillLists"
           :key="index"
-          class="h-[140px] w-[140px] p-5 shadow-xl m-5 flex justify-center items-center rounded-xl border cursor-pointer hover:scale-110 duration-300"
+          class="h-[140px] w-[140px] bg-white p-5 shadow-xl m-5 flex justify-center items-center rounded-xl border cursor-pointer hover:scale-110 duration-300"
         >
           <div>
             <img
