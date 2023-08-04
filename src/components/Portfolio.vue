@@ -15,7 +15,7 @@
           <button
           class="bg-[#286dab] text-sm flex items-center justify-center px-4 py-1 text-white rounded-md hover:scale-110 duration-300 mx-auto md:mx-0"
         >
-          <a href="https://drive.google.com/file/d/18xOFnvrm3v2Nj1fNSjtkn37_R0PcjdUT/view?usp=sharing" type="application/pdf" rel="alternate" media="print" target="_blank">RESUME</a>
+          <a href="https://drive.google.com/file/d/19sEBG5PmuLTrzkwJrVnW5hk2xL-OXVf4/view?usp=drive_link" type="application/pdf" rel="alternate" media="print" target="_blank">RESUME</a>
         </button>
         <div class="flex space-x-2 mt-4">
           <a
